@@ -1,1 +1,1 @@
-this is new1.txt by git102
+this is new1.txt by git102 แก้ไข
